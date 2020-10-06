@@ -1,0 +1,18 @@
+
+	{
+		"Values": {
+			"gchat": {
+				"alertLabels": {
+					"abc": "123",
+					"def": "456"
+				}
+			},
+			"prometheus": {
+				"alertmanager": {
+					"ingress": {
+						"hosts": ["https://amazon.com"]
+					}
+				}
+			}
+		}
+	}
